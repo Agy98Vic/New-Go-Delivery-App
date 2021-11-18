@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Go Delivery</string>
+    <string name="fonts">fonts/Terminal-Regular</string>
+</resources>

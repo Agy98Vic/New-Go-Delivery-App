@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="PostJobEmployerStatusTitleID" type="id" />
+    <item name="PostJobEmployerStatusID" type="id" />
+    <item name="PostPhotoEmployerProgressBarID" type="id" />
+    <item name="PostPhotoEmployerImageID" type="id" />
+    <item name="PostPhotoEmployerTextDescriptionID" type="id" />
+    <item name="PostJobEmployerApproveButtonID" type="id" />
+    <item name="PostJobEmployerJobDetailsButtonID" type="id" />
+    <item name="GeneralDeliveryPersonNameID" type="id" />
+    <item name="PostJobWorkerStatusTitleID" type="id" />
+    <item name="PostJobWorkerStatusID" type="id" />
+    <item name="PostPhotoWorkerProgressBarID" type="id" />
+    <item name="PostPhotoWorkerImageID" type="id" />
+    <item name="PostPhotoWorkerTextDescriptionID" type="id" />
+    <item name="PostPhotoWorkerButtonID" type="id" />
+    <item name="PostJobWorkerJobDetailsButtonID" type="id" />
+    <item name="PreJobEmployerStatusTitleID" type="id" />
+    <item name="UserTypeSubmitJobButtonID" type="id" />
+    <item name="UserTypeCarryJobButtonID" type="id" />
+    <item name="UserTypeProfileButtonID" type="id" />
+    <item name="PreJobWorkerJobDetailsButtonID" type="id" />
+    <item name="PrePhotoWorkerTextDescriptionID" type="id" />
+    <item name="PrePhotoWorkerImageID" type="id" />
+    <item name="PrePhotoWorkerProgressBarID" type="id" />
+    <item name="PreJobWorkerStatusID" type="id" />
+    <item name="PreJobWorkerStatusTitleID" type="id" />
+    <item name="PreJobEmployerJobDetailsButtonID" type="id" />
+    <item name="PreJobEmployerApproveButtonID" type="id" />
+    <item name="PrePhotoEmployerTextDescriptionID" type="id" />
+    <item name="PrePhotoEmployerImageID" type="id" />
+    <item name="PreJobEmployerStatusID" type="id" />
+    <item name="PrePhotoEmployerProgressBarID" type="id" />
+    <item name="PaymentJobEmployerDescriptionID" type="id" />
+    <item name="PaymentJobEmployerTitleID" type="id" />
+    <item name="PaymentJobEmployerButtonID" type="id" />
+    <item name="PaymentJobWorkerTitleID" type="id" />
+    <item name="PaymentJobWorkerDescriptionID" type="id" />
+    <item name="fonts" type="id" />
+</resources>
